@@ -16,12 +16,16 @@ This 3D model is a case to use Apple Magic Keyboard with Touch ID as a palm rest
 
 ## Example
 
-I used the 3D printer, filament, and magnets below.
+I used the 3D printer, a 3D print slicer software filament, and magnets as below.
 
 * CREALITY Ender-3 Pro (https://www.creality.com/products/ender-3-pro-3d-printer)
+* Ultimaker Cura (https://ultimaker.com/software/ultimaker-cura)
 * ANYCUBIC PLA Filament (https://www.anycubic.com/collections/pla/products/1-75mm-pla-3d-printer-filament?variant=41189469487266)
 * Neodymium magnets (https://www.amazon.co.jp/gp/product/B08DXRWCPB/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1)
 
+In addition, __Standard Quality__ mode was used in Ultimaker Cura. 
+
+After priting, the magnets were inserted into the printed palm rest. At this time, you shou
 
 ## License
 
