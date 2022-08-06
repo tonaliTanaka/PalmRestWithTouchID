@@ -29,7 +29,15 @@ I used the 3D printer, a 3D print slicer software filament, and magnets as below
 
 In addition, __Standard Quality__ mode was used in Ultimaker Cura. 
 
-After priting, the magnets were inserted into the printed palm rest. At this time, you should watch the direction of the magnets.
+After priting, the magnets were inserted into the holes of the printed palm rest. The holes are located on the side of the palm rest. At this time, you should watch the direction of the magnets.
+
+The image below shows the printed palm rest with Apple Magic Keyboard while using other keyboard.
+
+![example](https://github.com/tonaliTanaka/PalmRestWithTouchID/blob/main/img/example.png)
+
+In adiition, the back of the palm rest has several holes for a power swtich, a lighting port, and Bluetooth antenna of Apple Magic Keybaord as below.
+
+![back](https://github.com/tonaliTanaka/PalmRestWithTouchID/blob/main/img/back.png)
 
 ## License
 
