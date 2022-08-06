@@ -6,7 +6,11 @@ This 3D model is a case to use Apple Magic Keyboard with Touch ID as a palm rest
 
 ## 3D model view
 
-![alt text](https://github.com/tonaliTanaka/PalmRestWithTouchID/blob/main/image1.png)
+### Components
+![alt text](https://github.com/tonaliTanaka/PalmRestWithTouchID/blob/main/image2.png)
+
+### Palm rest with Touch ID
+![alt text](https://github.com/tonaliTanaka/PalmRestWithTouchID/blob/main/image2.png)
 
 ## Materials
 
