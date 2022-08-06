@@ -6,7 +6,7 @@ This 3D model is a case to use Apple Magic Keyboard with Touch ID as a palm rest
 
 ## 3D model view
 
-<iframe src="https://alumni378.autodesk360.com/shares/public/SH35dfcQT936092f0e4370140dee595cf8d0?mode=embed" width="800" height="600" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
+![alt text](https://github.com/tonaliTanaka/PalmRestWithTouchID/blob/main/image1.png)
 
 ## Materials
 
@@ -25,7 +25,7 @@ I used the 3D printer, a 3D print slicer software filament, and magnets as below
 
 In addition, __Standard Quality__ mode was used in Ultimaker Cura. 
 
-After priting, the magnets were inserted into the printed palm rest. At this time, you shou
+After priting, the magnets were inserted into the printed palm rest. At this time, you should watch the direction of the magnets.
 
 ## License
 
